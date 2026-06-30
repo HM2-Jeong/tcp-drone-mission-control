@@ -17,8 +17,6 @@ A multithreaded server-client architecture that commands multiple drones simulta
 [![Multithreading](https://img.shields.io/badge/Concurrency-Multithreaded-orange?style=flat-square)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
 
-> Based on a Network Programming course project report · Tech University of Korea
-
 </div>
 
 ---
@@ -136,9 +134,6 @@ stateDiagram-v2
 4️⃣  Second Enter press → all drones move toward the 2nd target (50m to the left)
 5️⃣  All drones reach their final position; server sends termination packet; all clients shut down normally
 ```
-
-> 💡 Add real execution screenshots here for a stronger presentation (`![result](./images/result.png)`)
-
 ---
 
 ## ✅ Conclusion

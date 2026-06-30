@@ -17,8 +17,6 @@
 [![Multithreading](https://img.shields.io/badge/Concurrency-Multithreaded-orange?style=flat-square)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
 
-> 네트워크 프로그래밍 Project 보고서 기반 · 한국공학대학교
-
 </div>
 
 ---
@@ -136,8 +134,6 @@ stateDiagram-v2
 4️⃣  두 번째 엔터 입력 → 모든 드론이 2차 목표(좌측 50m)로 이동
 5️⃣  전 드론 최종 도착 후 서버가 종료 패킷 송신, 모든 클라이언트 정상 종료
 ```
-
-> 💡 실제 실행 화면 스크린샷을 여기에 추가하면 더 좋아요 (`![결과](./images/result.png)`)
 
 ---
 
