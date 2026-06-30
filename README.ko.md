@@ -163,13 +163,3 @@ stateDiagram-v2
 ![Multithreading](https://img.shields.io/badge/Multithreading-orange?style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-
-### ✍️ 작성자
-
-**정하밈** · 한국공학대학교
-
-</div>

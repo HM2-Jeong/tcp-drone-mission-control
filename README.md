@@ -164,12 +164,4 @@ The project demonstrates real-time data processing, synchronization, and a stabl
 
 </div>
 
----
 
-<div align="center">
-
-### ✍️ Author
-
-**Jeong Ha-mim** · Tech University of Korea
-
-</div>
